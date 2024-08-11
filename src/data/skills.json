@@ -1,0 +1,32 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png",
+      "desc":"50% HTML"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png",
+      "desc":"50% CSS"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png",
+      "desc":"50% REACT"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "skills/node.png",
+       "desc":"50% NODE JS"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png",
+       "desc":"50% MONGODB"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png",
+       "desc":"50% FIGMA"
+    }
+  ]
